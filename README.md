@@ -41,10 +41,12 @@ Lowest Price: The lowest price recorded.
 Average Price: The average stock price during the selected period.
 Market Cap: Apple's market capitalization, expressed in trillions (USD).
 
-Features:
+# Features:
+
 Interactive Filters: Dropdowns for selecting specific quarters and months, enabling users to explore data for different time periods.
+
 Interconnected Navigation: A clickable Samsung logo is included to switch back to the Samsung dashboard.
-Design & Structure
+# Design & Structure
 Stacked Tiles: Key financial metrics (highest price, lowest price, average price, and market cap) are displayed as stacked tiles on the right for both dashboards, ensuring easy access to important figures.
 Interactive Charts: Both dashboards feature interactive bar and candlestick charts. Hovering over elements reveals detailed data points, such as traded volume or specific stock prices.
 Logo Navigation: The Apple and Samsung logos serve as interactive buttons, linking the two dashboards for a seamless comparison experience.
@@ -55,14 +57,19 @@ Data Sources: Financial data for Apple and Samsung, including:
 Traded Volumes (2019-2024).
 Stock Price Data (candlestick charts for 2020-2024).
 Market Capitalization for both companies.
-Power BI Features:
+# Power BI Features:
 Visual Filters for quarter and month selection.
 Hover Tooltips for detailed insights on chart elements.
-How to Use
+
+# How to Use
 Navigation: Use the company logos (Apple and Samsung) to switch between the two dashboards.
+
 Filter Data: Use the dropdowns at the top-right corner of each dashboard to filter data by specific quarters and months.
+
 Explore Metrics: Hover over the bar or candlestick charts to see precise values for traded volumes and stock prices.
+
 Interpret Financial Data: Compare key metrics such as Highest Price, Lowest Price, Average Price, and Market Cap through the stacked tiles on each dashboard.
-Conclusion
+
+# Conclusion
 This Power BI dashboard project allows users to compare Apple and Samsung’s financial performance interactively. The user-friendly design, combined with dynamic filters and navigation, makes it easy to explore trends, stock prices, and market activity over time. The project showcases how financial insights can be made accessible and engaging using Power BI’s rich visualization features.
 
