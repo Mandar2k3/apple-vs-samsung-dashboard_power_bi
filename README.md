@@ -3,18 +3,20 @@ Overview
 
 The Apple vs Samsung dashboard project is an interactive and comparative analysis of key financial data for Apple Inc. and Samsung Electronics. Built using Power BI, the project comprises two interconnected dashboards—one focused on Apple and the other on Samsung—allowing users to switch between them via clickable company logos. The dashboards highlight critical financial metrics and stock market trends for both companies, enabling dynamic exploration of their performance over time.
 
-Dashboard 1: Samsung Overview
+# Dashboard 1: Samsung Overview
 
 The Samsung Dashboard presents important data related to Samsung's stock and financial performance:
 
 Traded Volumes of Samsung: A bar chart showing Samsung's traded volume for the years 2019 to 2024, allowing users to visualize trends in stock market activity.
 Candlestick Chart of Samsung Shares: A detailed candlestick chart displaying the open, close, high, and low stock prices over time (2020-2024), with volume information.
+
 Key Financial Metrics:
+
 Highest Price: The highest stock price recorded.
 Lowest Price: The lowest stock price during the same period.
 Average Price: The average price over the selected years.
 Market Cap: Samsung's market capitalization, expressed in trillions (₩).
-Features:
+# Features:
 Interactive Filters: Dropdown filters for selecting specific quarters and months provide a more granular view of the data.
 Interconnected Navigation: A clickable Apple logo allows users to switch seamlessly to the Apple dashboard.
 Dashboard 2: Apple Overview
