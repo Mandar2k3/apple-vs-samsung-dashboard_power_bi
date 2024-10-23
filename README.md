@@ -13,22 +13,34 @@ Candlestick Chart of Samsung Shares: A detailed candlestick chart displaying the
 Key Financial Metrics:
 
 Highest Price: The highest stock price recorded.
+
 Lowest Price: The lowest stock price during the same period.
+
 Average Price: The average price over the selected years.
+
 Market Cap: Samsung's market capitalization, expressed in trillions (₩).
-# Features:
+
+Features:
+
 Interactive Filters: Dropdown filters for selecting specific quarters and months provide a more granular view of the data.
+
 Interconnected Navigation: A clickable Apple logo allows users to switch seamlessly to the Apple dashboard.
-Dashboard 2: Apple Overview
+
+# Dashboard 2: Apple Overview
+
 The Apple Dashboard provides a similar set of metrics to facilitate comparison with Samsung:
 
 Traded Volumes of Apple: A bar chart showing Apple's traded volume for the years 2019 to 2024.
+
 Candlestick Chart of Apple Shares: A candlestick chart illustrating Apple's stock price movements from 2020 to 2024.
+
 Key Financial Metrics:
+
 Highest Price: The highest price reached by Apple's stock.
 Lowest Price: The lowest price recorded.
 Average Price: The average stock price during the selected period.
 Market Cap: Apple's market capitalization, expressed in trillions (USD).
+
 Features:
 Interactive Filters: Dropdowns for selecting specific quarters and months, enabling users to explore data for different time periods.
 Interconnected Navigation: A clickable Samsung logo is included to switch back to the Samsung dashboard.
