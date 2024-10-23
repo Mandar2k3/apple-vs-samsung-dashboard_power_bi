@@ -20,7 +20,7 @@ Average Price: The average price over the selected years.
 
 Market Cap: Samsung's market capitalization, expressed in trillions (₩).
 
-Features:
+# Features:
 
 Interactive Filters: Dropdown filters for selecting specific quarters and months provide a more granular view of the data.
 
@@ -37,8 +37,11 @@ Candlestick Chart of Apple Shares: A candlestick chart illustrating Apple's stoc
 Key Financial Metrics:
 
 Highest Price: The highest price reached by Apple's stock.
+
 Lowest Price: The lowest price recorded.
+
 Average Price: The average stock price during the selected period.
+
 Market Cap: Apple's market capitalization, expressed in trillions (USD).
 
 # Features:
@@ -46,19 +49,31 @@ Market Cap: Apple's market capitalization, expressed in trillions (USD).
 Interactive Filters: Dropdowns for selecting specific quarters and months, enabling users to explore data for different time periods.
 
 Interconnected Navigation: A clickable Samsung logo is included to switch back to the Samsung dashboard.
+
 # Design & Structure
 Stacked Tiles: Key financial metrics (highest price, lowest price, average price, and market cap) are displayed as stacked tiles on the right for both dashboards, ensuring easy access to important figures.
+
 Interactive Charts: Both dashboards feature interactive bar and candlestick charts. Hovering over elements reveals detailed data points, such as traded volume or specific stock prices.
+
 Logo Navigation: The Apple and Samsung logos serve as interactive buttons, linking the two dashboards for a seamless comparison experience.
+
 Shared Canvas: The dashboards are designed on a single canvas with tiles stacked over each other, providing a unified, fluid user experience.
-Tools & Technologies
+
+# Tools & Technologies
+
 Power BI: The entire project is built using Power BI, leveraging its visualization capabilities and interactivity features.
+
 Data Sources: Financial data for Apple and Samsung, including:
+
 Traded Volumes (2019-2024).
+
 Stock Price Data (candlestick charts for 2020-2024).
+
 Market Capitalization for both companies.
+
 # Power BI Features:
 Visual Filters for quarter and month selection.
+
 Hover Tooltips for detailed insights on chart elements.
 
 # How to Use
